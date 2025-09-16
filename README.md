@@ -66,9 +66,8 @@ Evaluation metrics: MAE, MSE, RMSE, R² Score
 
 Results
 
-Best model achieved XX% R² score
+Best model achieved 80% R² score
 
-Random Forest performed best (update with your actual results)
 
 📊 Results Visualization
 
